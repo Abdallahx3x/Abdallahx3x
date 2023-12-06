@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name], an Android Developer passionate about crafting great mobile experiences. 🚀
+👋 Hi, I'm Abdallah Sayed, an Android Developer passionate about crafting great mobile experiences. 🚀
 
 👨‍💻 I code in Kotlin, focusing on creating user-friendly apps with a touch of innovation.
 
