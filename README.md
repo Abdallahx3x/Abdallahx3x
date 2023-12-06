@@ -4,6 +4,6 @@
 
 🚀 Let's connect:
 - 📧 Email: abdullahsayed3355@gmail.com
-- 🔗 LinkedIn: [https://www.linkedin.com/in/abdallah-sayed-a01227218/]
+- 🔗 LinkedIn: https://www.linkedin.com/in/abdallah-sayed-a01227218/
 
 Open to collaboration and always up for a good coding chat! Happy coding! 🚀
